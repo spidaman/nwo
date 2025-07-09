@@ -1,0 +1,98 @@
+atwater_park_milwaukee_wi:
+  type: ndbc
+  name: NDBC - Station 45013 - ATW20 - Atwater Park, WI Observations
+  link: https://www.ndbc.noaa.gov/data/latest_obs/45013.rss
+  lat: 43.1
+  lon: -87.85
+  tz: CDT
+big_sable_point_mi: 
+  type: ndbc
+  name: NDBC - Station BSBM4 - Big Sable Point, MI Observations
+  link: https://www.ndbc.noaa.gov/data/latest_obs/bsbm4.rss
+  lat: 44.055
+  lon: -86.514
+  tz: EDT
+chicago_il:
+  type: ndbc
+  name: NDBC - Station 45198 - Chicago Buoy Observations
+  link: https://www.ndbc.noaa.gov/data/latest_obs/45198.rss
+  lat: 41.892
+  lon: -87.563
+  tz: CDT
+grand_traverse_light_mi:
+  type: ndbc
+  name: NDBC - Station GTLM4 - Grand Traverse Light, MI Observations
+  link: https://www.ndbc.noaa.gov/data/latest_obs/gtlm4.rss
+  lat: 45.211
+  lon: -85.55
+  tz: EDT
+kewaunee_wi:
+  type: ndbc
+  name: NDBC - Station KWNW3 - 9087069 - Kewaunee MET, WI Observations
+  link: https://www.ndbc.noaa.gov/data/latest_obs/kwnw3.rss
+  lat: 44.465
+  lon: -87.496
+  tz: CDT
+little_traverse_bay_mi_buoy:
+  type: ndbc
+  name: NDBC - Station 45022 - Little Traverse Bay Buoy, MI Observations
+  link: https://www.ndbc.noaa.gov/data/latest_obs/45022.rss
+  lat: 45.404
+  lon: -85.088
+  tz: EDT
+manistee_mi_harbor:
+  type: ndbc
+  name: NDBC - Station MEEM4 - Manistee Harbor, MI Observations
+  link: https://www.ndbc.noaa.gov/data/latest_obs/meem4.rss
+  lat: 44.251
+  lon: -86.342
+  tz: EDT
+milwaukee:
+  type: glerl
+  name: NOAA/GLERL Met Station at Milwaukee, WI
+  link: https://www.glerl.noaa.gov/metdata/plot_3hr.php?site=mil&units=e
+  lat: 43.005
+  lon: -87.884
+  tz: CDT
+north_lake_michigan:
+  type: ndbc
+  name: NDBC - Station 45002 - NORTH MICHIGAN- Halfway between North Manitou and Washington Islands. Observations
+  link: https://www.ndbc.noaa.gov/data/latest_obs/45002.rss
+  lat: 45.344
+  lon: -86.411
+  tz: EDT
+salmon_unlimited_wi:
+  type: ndbc
+  name: NDBC - Station 45199 - Salmon Unlimited Wisconsin Observations
+  link: https://www.ndbc.noaa.gov/data/latest_obs/45199.rss
+  lat: 42.702
+  lon: -87.647
+  tz: EDT
+sheboygan_wi:
+  type: ndbc
+  name: NDBC - Station SGNW3 - Sheboygan, WI Observations
+  link: https://www.ndbc.noaa.gov/data/latest_obs/sgnw3.rss
+  lat: 43.749
+  lon: -87.693
+  tz: EDT
+south_haven:
+  type: glerl
+  name: NOAA/GLERL Met Station at South Haven, MI
+  link: https://www.glerl.noaa.gov/metdata/plot_3hr.php?site=shv&units=e
+  lat: 42.401
+  lon: -86.288
+  tz: CDT
+south_haven_mi_buoy:
+  type: ndbc
+  name: NDBC - Station 45168 - South Haven Buoy, MI Observations
+  link: https://www.ndbc.noaa.gov/data/latest_obs/45002.rss
+  lat: 42.397
+  lon: -86.331
+  tz: EDT
+south_lake_michigan:
+  type: ndbc
+  name: Station 45007 - SOUTH MICHIGAN - 43NM East Southeast of Milwaukee, WI
+  link: https://www.ndbc.noaa.gov/data/latest_obs/45007.rss
+  lat: 42.674
+  lon: -87.026
+  tz: EDT
